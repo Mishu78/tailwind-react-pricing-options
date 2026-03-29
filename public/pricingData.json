@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": 29.99,
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to all gym equipment",
+      "Standard locker room access",
+      "Free WiFi",
+      "1 Complimentary fitness assessment",
+      "No long-term commitment"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Professional",
+    "price": 59.99,
+    "description": "Our most popular plan for regular gym enthusiasts.",
+    "features": [
+      "24/7 Gym access",
+      "Unlimited group fitness classes",
+      "2 Guest passes per month",
+      "Customized workout plan",
+      "Sauna and steam room access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ultimate",
+    "price": 99.99,
+    "description": "The complete package for total body transformation.",
+    "features": [
+      "All Professional features included",
+      "4 Personal training sessions/month",
+      "Monthly nutrition & meal planning",
+      "VIP locker and towel service",
+      "Access to swimming pool and recovery zone"
+    ]
+  }
+]
