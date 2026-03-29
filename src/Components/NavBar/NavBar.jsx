@@ -63,7 +63,7 @@ const NavBar = () => {
         <nav className='flex justify-between mx-10 '>
           <span className='flex' onClick={()=>setOpen(!open)}> 
             {
-            open ?<X className='md:hidden'></X> :  <Menu className='md:hidden'></Menu>
+            open ? <X className='md:hidden'></X> :  <Menu className='md:hidden'></Menu>
             }
             
            <ul className={`md:hidden absolute duration-1000 ${open ? 'top-8' : '-top-60'} bg-amber-300 `}>
